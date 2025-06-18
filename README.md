@@ -32,3 +32,6 @@ TensorFlow, Scikit-learn, Pandas, Plotly, Ipywidgets, Scapy (optional for live c
 ---
 
 Created with ❤️ for academic/research use.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aabh561/AI_Network_IDS_Project/blob/main/NetworkIDS_LSTM.ipynb)
+
