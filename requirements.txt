@@ -1,0 +1,11 @@
+numpy
+pandas
+scapy
+tqdm
+matplotlib
+seaborn
+tensorflow
+keras
+sklearn
+plotly
+ipywidgets
